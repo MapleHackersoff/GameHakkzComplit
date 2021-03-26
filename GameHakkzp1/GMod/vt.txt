@@ -1,0 +1,33 @@
+AOSHax:
+aoshax.dll https://www.virustotal.com/gui/file/36775ac43ceacbf1e82742f48a298198f68957042839eaa522e71b5f194b5e8c/detection
+
+AOSHax (1):
+aoshax2020.dll https://www.virustotal.com/gui/file/6ca620a0c8b6b90901cbb56d3b13d898c8f5ec1e77ad8abf003beeb78b84d809/detection
+
+Aqua:
+aque.dll https://www.virustotal.com/gui/file/1640e87c5839be0f1abc15552d950b9947922c171f1c1f9ec091db0b939a9e8d/detection
+
+BigPackets:
+Client_2569_32bitGamesOnly.exe https://www.virustotal.com/gui/file/fb097a77e05255218a454a502bf64d8dad4e58c9b549ca33ce33ecc2bba7760c/detection
+Client_2569_64bitGamesOnly.exe https://www.virustotal.com/gui/file/d1a1a758c1fdb3aac4ff87b486406c28788111dfde5828abba20b2aaae30d572/detection
+
+G-LUA Loader:
+INTERIUMGLUA.dll https://www.virustotal.com/gui/file/c390a3b9d4295cd832096c9deb62badf8f22ef10899375ff552f919312889b94/detection
+
+KH0PE:
+KH0PE.exe https://www.virustotal.com/gui/file/340b1b98d2a5eecb3d17ae846f16b93bb17abad556ad4398d5b069912e0072b9/detection
+
+KoneByPass:
+kone_bypass.dll https://www.virustotal.com/gui/file/9d507a98dba161b65bc1008a7f996f16400e89e537844187c2b8bfa3f746fc7d/detection
+
+Noxis:
+Noxis_Crack.dll https://www.virustotal.com/gui/file/12c051d7d6c9a3bda907707e1d814f2ada968698b9d9dbcf356514d199d00561/detection
+
+OldExecHack:
+Old_Exec_Hack.dll https://www.virustotal.com/gui/file/1e2129deaa5ec24135636626a736e1df15c3c64cc017cf7abf1113863995aabe/detection
+
+SmegHack:
+SmeGMHack.dll https://www.virustotal.com/gui/file/9d507a98dba161b65bc1008a7f996f16400e89e537844187c2b8bfa3f746fc7d/detection
+
+External:
+external.dll https://www.virustotal.com/gui/file/2028d2ca018addea78e1c220e07ad0d268f29f1900564060f6311cac66c51ebe/detection

@@ -1,0 +1,14 @@
+AkitaHack:
+AkitaHack.dll https://www.virustotal.com/gui/file/896521657c9443bb5d2ee3867c18207e567aab0e117a4ca8620df2da05d17af9/detection
+
+Cebula:
+CebulaV2.dll https://www.virustotal.com/gui/file/fbdb68dcfcddfbcb313430b8b22c03ecec146572fe965f084dfad67a8ce68788/detection
+
+NaCITF2:
+NaClTF2.dll https://www.virustotal.com/gui/file/251f9c2d0b2972006aa0147e415e86b80c2787765b105830c854e9d4f2135cf9/detection
+
+NullCore:
+nullcorefixedbywolfie.dll https://www.virustotal.com/gui/file/51fb82ba03e08e521ce60d6640eb40f4aa18a3270f35831bee845d9c81455a7a/detection
+
+###################
+TeamFortress2h.dll https://www.virustotal.com/gui/file/a3c77e4ba0bb9ca7e69c03dc1850f4896e408fd1bbe940132c8110291ac9ec47/detection

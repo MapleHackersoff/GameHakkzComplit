@@ -1,0 +1,2 @@
+KFSystemBot:
+KFSystemBot.dll https://www.virustotal.com/gui/file/c6bc498fbeb889501b92f3b3876f73d1380a1d83520881aedf7bae37ea7b22f9/detection

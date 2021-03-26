@@ -1,0 +1,4 @@
+EN: 
+on gmod startup inject file external.dll, it needed 2 get all libzz 4 ur hakkZ
+RU: 
+на запуске гмода проинжектите файл external.dll, это нужно чтобы получить все библиотеки для ваших читов.

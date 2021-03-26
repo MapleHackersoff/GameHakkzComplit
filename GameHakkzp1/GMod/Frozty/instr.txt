@@ -1,0 +1,7 @@
+bind "l" +bh_menu
+
+external daz.lua
+
+ADD EXTRERNAL FOLDER TO DOCUMENTS
+
+ace_menu

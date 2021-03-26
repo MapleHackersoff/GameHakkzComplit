@@ -1,0 +1,2 @@
+PidorG:
+PidorG.exe https://www.virustotal.com/gui/file/59278acb701cdba26bb89b57731a1f9dfef6f2750a2dd67ead0ccc9d2d964ccf/detection
