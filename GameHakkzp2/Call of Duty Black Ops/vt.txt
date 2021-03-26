@@ -1,0 +1,2 @@
+BOM:
+BOM.dll https://www.virustotal.com/gui/file/549e6c12a324b9882466ceb503158753f585e8c05ff21d3eb967970aa7baf971/detection

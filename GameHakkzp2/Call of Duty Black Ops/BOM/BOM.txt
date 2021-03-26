@@ -1,0 +1,9 @@
+    NUMPAD 7: Aimbot
+    NUMPAD 8: Silent Aim
+    NUMPAD 9: No Spread
+    NUMPAD 4: Auto Wall
+    NUMPAD 5: Autoshoot
+    NUMPAD 6: ESP
+    ------------------------
+    NUMPAD 1: Name cycle
+    NUMPAD 0: Detach cheat
