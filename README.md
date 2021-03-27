@@ -17,5 +17,5 @@ Wszystkie pliki są bezpieczne i zostały zweryfikowane przez autora montażu. W
 Omnes verificatur per files sunt incolumem fuisse auctor est ecclesiam. In momento, omnes bene operantes, non in fossis inveni injectors et dll. Nolite mirari hoc download 2022-2023. Quisque in folder ad ludum defraudat quod habet instr.txt vt.txt. Vos can reperio lima in instr.txt instructiones ad uti circumuentor / injector bene. In vt.txt lima, vos can reperio links ut reprehendo in VirusTotal (Magna Web Antivirus) lima. Si non est a lima in album, medium, quod illud non habet hic non est virus. Et hoc modo absolute, quod est non reprehendo punctum in ea.
 # Contact
 ### Discord
-###https://www.discord.gg/75w5fK8 Main
-###https://www.discord.gg/DnZD7xN4Zd WoSh (Mirror)
+### https://www.discord.gg/75w5fK8 Main
+### https://www.discord.gg/DnZD7xN4Zd WoSh (Mirror)
