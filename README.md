@@ -1,4 +1,4 @@
-#GameHakkzComplit
+# Description
 ### RU
 Все файлы безопасны и были проверены автором сборки. На данный момент, все инжекторы и ДЛЛ-взломщики работают отлично. Не удивляйтесь, если вы это скачаете в 2022-2023. В каждой папке с читами для игры есть instr.txt и vt.txt. В файле instr.txt вы можете найти инструкции к правильному использованию чита/инжектора. В файле vt.txt вы сможете найти ссылки на проверку файла VirusTotal (Большой веб-антивирус). Если какого-то файла в списке нет, это не значит что он не имеет вирусов. Это значит что проверять его совсем нет смысла.
 ### EN
@@ -15,3 +15,7 @@ Todos los archivos están seguros y han sido verificados por el autor del montaj
 Wszystkie pliki są bezpieczne i zostały zweryfikowane przez autora montażu. W tej chwili wszystkie wtryskiwacze i włamywacze dll działają dobrze. Nie zdziw się, jeśli pobierzesz to w latach 2022-2023. Każdy folder z kodami do gry zawiera instr.txt i vt.txt. W pliku instr.txt znajdziesz instrukcje, jak poprawnie używać cheata / wtryskiwacza. W pliku vt.txt znajdują się łącza umożliwiające sprawdzenie pliku VirusTotal (Great Web Antivirus). Jeśli pliku nie ma na liście, nie oznacza to, że nie zawiera on wirusów. Oznacza to, że absolutnie nie ma sensu tego sprawdzać.
 ### LT
 Omnes verificatur per files sunt incolumem fuisse auctor est ecclesiam. In momento, omnes bene operantes, non in fossis inveni injectors et dll. Nolite mirari hoc download 2022-2023. Quisque in folder ad ludum defraudat quod habet instr.txt vt.txt. Vos can reperio lima in instr.txt instructiones ad uti circumuentor / injector bene. In vt.txt lima, vos can reperio links ut reprehendo in VirusTotal (Magna Web Antivirus) lima. Si non est a lima in album, medium, quod illud non habet hic non est virus. Et hoc modo absolute, quod est non reprehendo punctum in ea.
+# Contact
+### Discord
+https://www.discord.gg/75w5fK8 Main
+https://www.discord.gg/DnZD7xN4Zd WoSh (Mirror)
